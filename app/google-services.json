@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "897304427359",
+    "firebase_url": "https://storyhub-home-default-rtdb.firebaseio.com",
+    "project_id": "storyhub-home",
+    "storage_bucket": "storyhub-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897304427359:android:771ffbcf40399c9812d4ea",
+        "android_client_info": {
+          "package_name": "com.example.storyhub_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897304427359-mfvb2r6m8o77enog0iufkfvbkqjtu4u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdiOzQu9dVbV_g2ySaXO2JIQxgCYOB7xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897304427359-mfvb2r6m8o77enog0iufkfvbkqjtu4u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
